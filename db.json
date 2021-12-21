@@ -11,21 +11,21 @@
   "profile": {
     "name": "typicode"
   }
-  "schools"[
+  "schools":[
     {
     "companyInfo": [
       {
-        "companyName": "ƒgƒ“ƒ{",
-        "branchName": "‰ªRx“X",
+        "companyName": "ãƒˆãƒ³ãƒœ",
+        "branchName": "å²¡å±±æ”¯åº—",
         "tel": "086-241-7000",
         "fax": "086-241-7100",
-        "saleManager1": "‰ªR@‘¾˜Y",
+        "saleManager1": "å²¡å±±ã€€å¤ªéƒ",
         "saleMailAdress1": "okayama.tarou@tombow-net.co.jp",
         "saleMobile1": "080-2928-1000",
         "saleManager2": "",
         "saleMailAdress2": "",
         "saleMobile2": "",
-        "productManager1": "‰ªR@Ÿ˜Y",
+        "productManager1": "å²¡å±±ã€€æ¬¡éƒ",
         "productMailAdress1": "okayama.jirou@tombow-net.co.jp",
         "productManager2": "",
         "productMailAdress2": ""
@@ -35,10 +35,10 @@
       {
         "controlNo": "00000001",
         "accessCode": "00000001",
-        "prefecture": "‰ªRŒ§",
-        "schoolName": "‰ªRŒ§—§‰ªR“Œ¤‹Æ‚“™ŠwZ",
-        "schoolNameKana": "ƒIƒJƒ„ƒ}ƒPƒ“ƒŠƒcƒIƒJƒ„ƒ}ƒqƒKƒVƒVƒ‡ƒEƒMƒ‡ƒEƒRƒEƒgƒEƒKƒbƒRƒE",
-        "address": "‰ªRŒ§‰ªRs’†‹æ“ŒR0’š–Ú0”Ô",
+        "prefecture": "å²¡å±±çœŒ",
+        "schoolName": "å²¡å±±çœŒç«‹å²¡å±±æ±å•†æ¥­é«˜ç­‰å­¦æ ¡",
+        "schoolNameKana": "ã‚ªã‚«ãƒ¤ãƒã‚±ãƒ³ãƒªãƒ„ã‚ªã‚«ãƒ¤ãƒãƒ’ã‚¬ã‚·ã‚·ãƒ§ã‚¦ã‚®ãƒ§ã‚¦ã‚³ã‚¦ãƒˆã‚¦ã‚¬ãƒƒã‚³ã‚¦",
+        "address": "å²¡å±±çœŒå²¡å±±å¸‚ä¸­åŒºæ±å±±0ä¸ç›®0ç•ª",
         "tel": "086-272-1111",
         "fax": "086-272-1112",
         "manPassExpectedNum": 110,
@@ -48,38 +48,38 @@
         "earlyDecision1PassDate": "2021-03-07T00:00:00",
         "earlyDecision1OrderStartDate": "2021-03-24T00:00:00",
         "earlyDecision1OrderEndDate": "2021-03-24T00:00:00",
-        "earlyDecision1DeliveryDate": "4Œ‰{",
+        "earlyDecision1DeliveryDate": "4æœˆåˆæ—¬",
         "earlyDecision2PassDate": "2021-03-20T00:00:00",
         "earlyDecision2OrderStartDate": "2021-03-20T00:00:00",
         "earlyDecision2OrderEndDate": "2021-03-27T00:00:00",
-        "earlyDecision2DeliveryDate": "4Œ‰{",
+        "earlyDecision2DeliveryDate": "4æœˆåˆæ—¬",
         "regularDecision1PassDate": "2021-03-24T00:00:00",
         "regularDecision1OrderStartDate": "2021-04-01T00:00:00",
         "regularDecision1OrderEndDate": "2021-04-01T00:00:00",
-        "regularDecision1DeliveryDate": "4Œ‰{",
+        "regularDecision1DeliveryDate": "4æœˆåˆæ—¬",
         "hakarungerFlg": "1",
         "twoFlg": "1",
         "directSmartphoneFlg": "1",
         "directConventionalFlg": "1",
-        "remarks": "”õl"
+        "remarks": "å‚™è€ƒ"
       }
     ],
     "productInfos": [
       {
         "productCode": "14M001",
         "colorCode": "11",
-        "productName": "ƒuƒŒƒU[",
-        "earlyDecision1SaleDate": "4Œ‰{",
-        "earlyDecision2SaleDate": "4Œ‰{",
-        "regularDecision1SaleDate": "4Œ‰{",
+        "productName": "ãƒ–ãƒ¬ã‚¶ãƒ¼",
+        "earlyDecision1SaleDate": "4æœˆåˆæ—¬",
+        "earlyDecision2SaleDate": "4æœˆåˆæ—¬",
+        "regularDecision1SaleDate": "4æœˆåˆæ—¬",
         "size": "SS~BEL",
         "price": "17000",
-        "mixiRatio": "ƒE[ƒ‹80“ƒ|ƒŠƒGƒXƒeƒ‹20“",
-        "washingMethod": "‘I‘ğZ",
+        "mixiRatio": "ã‚¦ãƒ¼ãƒ«80ï¼…ãƒãƒªã‚¨ã‚¹ãƒ†ãƒ«20ï¼…",
+        "washingMethod": "é¸æŠã€‡",
         "enactmentFlg": "1",
         "buyExample": "1",
         "buyTrend": "",
-        "yearColorInfo": "ŒÂlhJ—L"
+        "yearColorInfo": "å€‹äººåˆºç¹æœ‰"
       }
     ],
     "faqInfos": null,
