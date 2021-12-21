@@ -11,4 +11,79 @@
   "profile": {
     "name": "typicode"
   }
+  "schools"[
+    {
+    "companyInfo": [
+      {
+        "companyName": "トンボ",
+        "branchName": "岡山支店",
+        "tel": "086-241-7000",
+        "fax": "086-241-7100",
+        "saleManager1": "岡山　太郎",
+        "saleMailAdress1": "okayama.tarou@tombow-net.co.jp",
+        "saleMobile1": "080-2928-1000",
+        "saleManager2": "",
+        "saleMailAdress2": "",
+        "saleMobile2": "",
+        "productManager1": "岡山　次郎",
+        "productMailAdress1": "okayama.jirou@tombow-net.co.jp",
+        "productManager2": "",
+        "productMailAdress2": ""
+      }
+    ],
+    "baseInfo": [
+      {
+        "controlNo": "00000001",
+        "accessCode": "00000001",
+        "prefecture": "岡山県",
+        "schoolName": "岡山県立岡山東商業高等学校",
+        "schoolNameKana": "オカヤマケンリツオカヤマヒガシショウギョウコウトウガッコウ",
+        "address": "岡山県岡山市中区東山0丁目0番",
+        "tel": "086-272-1111",
+        "fax": "086-272-1112",
+        "manPassExpectedNum": 110,
+        "womanPassExpectedNum": 110,
+        "uniformHandlingKbn": "1",
+        "gymHandlingKbn": "1",
+        "earlyDecision1PassDate": "2021-03-07T00:00:00",
+        "earlyDecision1OrderStartDate": "2021-03-24T00:00:00",
+        "earlyDecision1OrderEndDate": "2021-03-24T00:00:00",
+        "earlyDecision1DeliveryDate": "4月初旬",
+        "earlyDecision2PassDate": "2021-03-20T00:00:00",
+        "earlyDecision2OrderStartDate": "2021-03-20T00:00:00",
+        "earlyDecision2OrderEndDate": "2021-03-27T00:00:00",
+        "earlyDecision2DeliveryDate": "4月初旬",
+        "regularDecision1PassDate": "2021-03-24T00:00:00",
+        "regularDecision1OrderStartDate": "2021-04-01T00:00:00",
+        "regularDecision1OrderEndDate": "2021-04-01T00:00:00",
+        "regularDecision1DeliveryDate": "4月初旬",
+        "hakarungerFlg": "1",
+        "twoFlg": "1",
+        "directSmartphoneFlg": "1",
+        "directConventionalFlg": "1",
+        "remarks": "備考"
+      }
+    ],
+    "productInfos": [
+      {
+        "productCode": "14M001",
+        "colorCode": "11",
+        "productName": "ブレザー",
+        "earlyDecision1SaleDate": "4月初旬",
+        "earlyDecision2SaleDate": "4月初旬",
+        "regularDecision1SaleDate": "4月初旬",
+        "size": "SS~BEL",
+        "price": "17000",
+        "mixiRatio": "ウール80％ポリエステル20％",
+        "washingMethod": "選択〇",
+        "enactmentFlg": "1",
+        "buyExample": "1",
+        "buyTrend": "",
+        "yearColorInfo": "個人刺繍有"
+      }
+    ],
+    "faqInfos": null,
+    "distributionInfos": null
+  }
+  ]
 }
