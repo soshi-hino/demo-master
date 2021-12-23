@@ -133,5 +133,50 @@
     "faqInfos": null,
     "distributionInfos": null
   }
+  ],
+  "inquiry/search":[{
+  "connectInquiryNo": 1,
+  "orderNo": 1,
+  "inquiryInfos": [
+    {
+      "officeCode": "1",
+      "inquiryNo": "00001",
+      "status": "0",
+      "inputType": "1",
+      "customerConditionKbn": "3",
+      "emergencyKbn": "2",
+      "inquiryKbn1": "",
+      "inquiryKbn2": "",
+      "inquiryInsertUserId": "001",
+      "inquiryInsertDatetime": "0:00",
+      "schoolCode": "00000001",
+      "schoolName": "岡山県立岡山東商業高等学校",
+      "schoolNameKana": "オカヤマケンリツオカヤマヒガシショウギョウコウトウガッコウ",
+      "prefecture": "岡山県",
+      "applicationKbn": "1",
+      "concurrentKbn": "1",
+      "closingDate": "2022/03/24",
+      "studentNameKana": "ヤマダ　タロウ",
+      "studentName": "山田　太郎",
+      "sexKbn": "1",
+      "currentStudentKbn": "1",
+      "belongingCode": "1A01",
+      "inTelRelationshipKbn": "2",
+      "inTelNameKana": "ヤマダ　タクロウ",
+      "inTelName": "山田　拓郎",
+      "contactTel": "080-0000-0001",
+      "contactDate": "2021/12/24",
+      "contactTime": "18:00",
+      "contactMailAddress": "test@gmail.jp",
+      "orderTel": "086-0000-0001",
+      "shippingPost": "7000001",
+      "shippingAddressKana": "ｵｶﾔﾏｹﾝ ｵｶﾔﾏｼｷﾀｸ ｼｭｸ",
+      "shippingAddress": "岡山県 岡山市北区 宿",
+      "inquiryContent": "問合せ内容テスト",
+      "supportContent": "対応内容テスト",
+      "escalationKbn": "1",
+      "callBackTelKbn": "1"
+    }
   ]
+}]
 }
