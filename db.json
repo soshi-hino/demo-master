@@ -1,182 +1,201 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "schools":[
-    {
-    "companyInfo": [
-      {
-        "companyName": "トンボ",
-        "branchName": "岡山支店",
-        "tel": "086-241-7000",
-        "fax": "086-241-7100",
-        "saleManager1": "岡山　太郎",
-        "saleMailAdress1": "okayama.tarou@tombow-net.co.jp",
-        "saleMobile1": "080-2928-1000",
-        "saleManager2": "",
-        "saleMailAdress2": "",
-        "saleMobile2": "",
-        "productManager1": "岡山　次郎",
-        "productMailAdress1": "okayama.jirou@tombow-net.co.jp",
-        "productManager2": "",
-        "productMailAdress2": ""
-      }
+    "posts": [
+        {
+            "id": 1,
+            "title": "Post 1"
+        },
+        {
+            "id": 2,
+            "title": "Post 2"
+        },
+        {
+            "id": 3,
+            "title": "Post 3"
+        }
     ],
-    "baseInfo": [
-      {
-        "controlNo": "00000001",
-        "accessCode": "00000001",
-        "prefecture": "岡山県",
-        "schoolName": "岡山県立岡山東商業高等学校",
-        "schoolNameKana": "オカヤマケンリツオカヤマヒガシショウギョウコウトウガッコウ",
-        "address": "岡山県岡山市中区東山0丁目0番",
-        "tel": "086-272-1111",
-        "fax": "086-272-1112",
-        "manPassExpectedNum": 110,
-        "womanPassExpectedNum": 110,
-        "uniformHandlingKbn": "1",
-        "gymHandlingKbn": "1",
-        "earlyDecision1PassDate": "2022/03/07",
-        "earlyDecision1OrderStartDate": "2022/03/24",
-        "earlyDecision1OrderEndDate": "2022/03/24",
-        "earlyDecision1DeliveryDate": "4月初旬",
-        "earlyDecision2PassDate": "2022/03/20",
-        "earlyDecision2OrderStartDate": "2022/03/20",
-        "earlyDecision2OrderEndDate": "2022/03/27",
-        "earlyDecision2DeliveryDate": "4月初旬",
-        "regularDecision1PassDate": "2022/03/24",
-        "regularDecision1OrderStartDate": "2022/04/01",
-        "regularDecision1OrderEndDate": "2022/04/01",
-        "regularDecision1DeliveryDate": "4月初旬",
-        "hakarungerFlg": "1",
-        "twoFlg": "1",
-        "directSmartphoneFlg": "1",
-        "directConventionalFlg": "1",
-        "remarks": "備考"
-      }
+    "comments": [
+        {
+            "id": 1,
+            "body": "some comment",
+            "postId": 1
+        },
+        {
+            "id": 2,
+            "body": "some comment",
+            "postId": 1
+        }
     ],
-    "productInfos": [
-      {
-        "productCode": "14M001",
-        "colorCode": "11",
-        "productName": "ブレザー",
-        "earlyDecision1SaleDate": "4月初旬",
-        "earlyDecision2SaleDate": "4月初旬",
-        "regularDecision1SaleDate": "4月初旬",
-        "size": "SS~BEL",
-        "price": "17000",
-        "mixiRatio": "ウール80％ポリエステル20％",
-        "washingMethod": "選択〇",
-        "enactmentFlg": "1",
-        "buyExample": "1",
-        "buyTrend": "",
-        "yearColorInfo": "個人刺繍有"
-      },
-      {
-        "productCode": "14M002",
-        "colorCode": "11",
-        "productName": "長袖シャツ",
-        "earlyDecision1SaleDate": "4月初旬",
-        "earlyDecision2SaleDate": "4月初旬",
-        "regularDecision1SaleDate": "4月初旬",
-        "size": "SS~BEL",
-        "price": "3500",
-        "mixiRatio": "ウール80％ポリエステル20％",
-        "washingMethod": "選択〇",
-        "enactmentFlg": "1",
-        "buyExample": "1",
-        "buyTrend": "",
-        "yearColorInfo": ""
-      },
-      {
-        "productCode": "14M003",
-        "colorCode": "11",
-        "productName": "夏スラック",
-        "earlyDecision1SaleDate": "4月初旬",
-        "earlyDecision2SaleDate": "4月初旬",
-        "regularDecision1SaleDate": "4月初旬",
-        "size": "SS~BEL",
-        "price": "7000",
-        "mixiRatio": "ウール80％ポリエステル20％",
-        "washingMethod": "選択〇",
-        "enactmentFlg": "1",
-        "buyExample": "1",
-        "buyTrend": "",
-        "yearColorInfo": ""
-      },
-      {
-        "productCode": "14M004",
-        "colorCode": "11",
-        "productName": "セーター",
-        "earlyDecision1SaleDate": "4月初旬",
-        "earlyDecision2SaleDate": "4月初旬",
-        "regularDecision1SaleDate": "4月初旬",
-        "size": "SS~BEL",
-        "price": "6500",
-        "mixiRatio": "ウール80％ポリエステル20％",
-        "washingMethod": "選択〇",
-        "enactmentFlg": "1",
-        "buyExample": "1",
-        "buyTrend": "",
-        "yearColorInfo": ""
-      }
+    "profile": {
+        "name": "typicode"
+    },
+    "schools": [
+        {
+            "companyInfo": [
+                {
+                    "companyName": "トンボ",
+                    "branchName": "岡山支店",
+                    "tel": "086-241-7000",
+                    "fax": "086-241-7100",
+                    "saleManager1": "岡山　太郎",
+                    "saleMailAdress1": "okayama.tarou@tombow-net.co.jp",
+                    "saleMobile1": "080-2928-1000",
+                    "saleManager2": "",
+                    "saleMailAdress2": "",
+                    "saleMobile2": "",
+                    "productManager1": "岡山　次郎",
+                    "productMailAdress1": "okayama.jirou@tombow-net.co.jp",
+                    "productManager2": "",
+                    "productMailAdress2": ""
+                }
+            ],
+            "baseInfo": [
+                {
+                    "controlNo": "00000001",
+                    "accessCode": "00000001",
+                    "prefecture": "岡山県",
+                    "schoolName": "岡山県立岡山東商業高等学校",
+                    "schoolNameKana": "オカヤマケンリツオカヤマヒガシショウギョウコウトウガッコウ",
+                    "address": "岡山県岡山市中区東山0丁目0番",
+                    "tel": "086-272-1111",
+                    "fax": "086-272-1112",
+                    "manPassExpectedNum": 110,
+                    "womanPassExpectedNum": 110,
+                    "uniformHandlingKbn": "1",
+                    "gymHandlingKbn": "1",
+                    "earlyDecision1PassDate": "2022/03/07",
+                    "earlyDecision1OrderStartDate": "2022/03/24",
+                    "earlyDecision1OrderEndDate": "2022/03/24",
+                    "earlyDecision1DeliveryDate": "4月初旬",
+                    "earlyDecision2PassDate": "2022/03/20",
+                    "earlyDecision2OrderStartDate": "2022/03/20",
+                    "earlyDecision2OrderEndDate": "2022/03/27",
+                    "earlyDecision2DeliveryDate": "4月初旬",
+                    "regularDecision1PassDate": "2022/03/24",
+                    "regularDecision1OrderStartDate": "2022/04/01",
+                    "regularDecision1OrderEndDate": "2022/04/01",
+                    "regularDecision1DeliveryDate": "4月初旬",
+                    "hakarungerFlg": "1",
+                    "twoFlg": "1",
+                    "directSmartphoneFlg": "1",
+                    "directConventionalFlg": "1",
+                    "remarks": "備考"
+                }
+            ],
+            "productInfos": [
+                {
+                    "productCode": "14M001",
+                    "colorCode": "11",
+                    "productName": "ブレザー",
+                    "earlyDecision1SaleDate": "4月初旬",
+                    "earlyDecision2SaleDate": "4月初旬",
+                    "regularDecision1SaleDate": "4月初旬",
+                    "size": "SS~BEL",
+                    "price": "17000",
+                    "mixiRatio": "ウール80％ポリエステル20％",
+                    "washingMethod": "選択〇",
+                    "enactmentFlg": "1",
+                    "buyExample": "1",
+                    "buyTrend": "",
+                    "yearColorInfo": "個人刺繍有"
+                },
+                {
+                    "productCode": "14M002",
+                    "colorCode": "11",
+                    "productName": "長袖シャツ",
+                    "earlyDecision1SaleDate": "4月初旬",
+                    "earlyDecision2SaleDate": "4月初旬",
+                    "regularDecision1SaleDate": "4月初旬",
+                    "size": "SS~BEL",
+                    "price": "3500",
+                    "mixiRatio": "ウール80％ポリエステル20％",
+                    "washingMethod": "選択〇",
+                    "enactmentFlg": "1",
+                    "buyExample": "1",
+                    "buyTrend": "",
+                    "yearColorInfo": ""
+                },
+                {
+                    "productCode": "14M003",
+                    "colorCode": "11",
+                    "productName": "夏スラック",
+                    "earlyDecision1SaleDate": "4月初旬",
+                    "earlyDecision2SaleDate": "4月初旬",
+                    "regularDecision1SaleDate": "4月初旬",
+                    "size": "SS~BEL",
+                    "price": "7000",
+                    "mixiRatio": "ウール80％ポリエステル20％",
+                    "washingMethod": "選択〇",
+                    "enactmentFlg": "1",
+                    "buyExample": "1",
+                    "buyTrend": "",
+                    "yearColorInfo": ""
+                },
+                {
+                    "productCode": "14M004",
+                    "colorCode": "11",
+                    "productName": "セーター",
+                    "earlyDecision1SaleDate": "4月初旬",
+                    "earlyDecision2SaleDate": "4月初旬",
+                    "regularDecision1SaleDate": "4月初旬",
+                    "size": "SS~BEL",
+                    "price": "6500",
+                    "mixiRatio": "ウール80％ポリエステル20％",
+                    "washingMethod": "選択〇",
+                    "enactmentFlg": "1",
+                    "buyExample": "1",
+                    "buyTrend": "",
+                    "yearColorInfo": ""
+                }
+            ],
+            "faqInfos": null,
+            "distributionInfos": null
+        }
     ],
-    "faqInfos": null,
-    "distributionInfos": null
-  }
-  ],
-  "inquirysearch":[{
-  "connectInquiryNo": 1,
-  "orderNo": 1,
-  "inquiryInfos": [
-    {
-      "officeCode": "1",
-      "inquiryNo": "00001",
-      "status": "0",
-      "inputType": "1",
-      "customerConditionKbn": "3",
-      "emergencyKbn": "2",
-      "inquiryKbn1": "",
-      "inquiryKbn2": "",
-      "inquiryInsertUserId": "001",
-      "inquiryInsertDatetime": "0:00",
-      "schoolCode": "00000001",
-      "schoolName": "岡山県立岡山東商業高等学校",
-      "schoolNameKana": "オカヤマケンリツオカヤマヒガシショウギョウコウトウガッコウ",
-      "prefecture": "岡山県",
-      "applicationKbn": "1",
-      "concurrentKbn": "1",
-      "closingDate": "2022/03/24",
-      "studentNameKana": "ヤマダ　タロウ",
-      "studentName": "山田　太郎",
-      "sexKbn": "1",
-      "currentStudentKbn": "1",
-      "belongingCode": "1A01",
-      "inTelRelationshipKbn": "2",
-      "inTelNameKana": "ヤマダ　タクロウ",
-      "inTelName": "山田　拓郎",
-      "contactTel": "080-0000-0001",
-      "contactDate": "2021/12/24",
-      "contactTime": "18:00",
-      "contactMailAddress": "test@gmail.jp",
-      "orderTel": "086-0000-0001",
-      "shippingPost": "7000001",
-      "shippingAddressKana": "ｵｶﾔﾏｹﾝ ｵｶﾔﾏｼｷﾀｸ ｼｭｸ",
-      "shippingAddress": "岡山県 岡山市北区 宿",
-      "inquiryContent": "問合せ内容テスト",
-      "supportContent": "対応内容テスト",
-      "escalationKbn": "1",
-      "callBackTelKbn": "1"
-    }
-  ]
-}]
+    "inquirysearch": [
+        {
+            "connectInquiryNo": 1,
+            "orderNo": 1,
+            "inquiryInfos": [
+                {
+                    "officeCode": "1",
+                    "inquiryNo": "00001",
+                    "status": "0",
+                    "inputType": "1",
+                    "customerConditionKbn": "3",
+                    "emergencyKbn": "2",
+                    "inquiryKbn1": "",
+                    "inquiryKbn2": "",
+                    "inquiryInsertUserId": "001",
+                    "inquiryInsertDatetime": "0:00",
+                    "schoolCode": "00000001",
+                    "schoolName": "岡山県立岡山東商業高等学校",
+                    "schoolNameKana": "オカヤマケンリツオカヤマヒガシショウギョウコウトウガッコウ",
+                    "prefecture": "岡山県",
+                    "applicationKbn": "1",
+                    "concurrentKbn": "1",
+                    "closingDate": "2022/03/24",
+                    "studentNameKana": "ヤマダ　タロウ",
+                    "studentName": "山田　太郎",
+                    "sexKbn": "1",
+                    "currentStudentKbn": "1",
+                    "belongingCode": "1A01",
+                    "inTelRelationshipKbn": "2",
+                    "inTelNameKana": "ヤマダ　タクロウ",
+                    "inTelName": "山田　拓郎",
+                    "contactTel": "080-0000-0001",
+                    "contactDate": "2021/12/24",
+                    "contactTime": "18:00",
+                    "contactMailAddress": "test@gmail.jp",
+                    "orderTel": "086-0000-0001",
+                    "shippingPost": "7000001",
+                    "shippingAddressKana": "ｵｶﾔﾏｹﾝ ｵｶﾔﾏｼｷﾀｸ ｼｭｸ",
+                    "shippingAddress": "岡山県 岡山市北区 宿",
+                    "inquiryContent": "問合せ内容テスト",
+                    "supportContent": "対応内容テスト",
+                    "escalationKbn": "1",
+                    "callBackTelKbn": "1"
+                }
+            ]
+        }
+    ]
 }
