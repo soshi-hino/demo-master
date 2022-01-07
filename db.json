@@ -130,8 +130,17 @@
                     "yearColorInfo": ""
                 }
             ],
-            "faqInfos": null,
-            "distributionInfos": null
+            "faqInfos": [
+		{
+			"no":"1",
+			"inquiryContent":"問合せ内容1",
+			"supportContent":"対応内容1"
+		},
+		{
+			"no":"2",
+			"inquiryContent":"問合せ内容2",
+			"supportContent":"対応内容2"
+		}]
         }
     ],
     "inquirysearch": [
@@ -183,7 +192,7 @@
     ],
     "OrderDetail":[
     {
-  "connectInquiryNo": "00000001",
+  "connectInquiryNo": "00001",
   "orderNo": null,
   "inquiryInfos": [
     {
@@ -273,7 +282,143 @@
   ],
   "MainInfo": [
     {
-      "orderNo": "00000001",
+      "orderNo": "00001",
+      "examinationNo": 123,
+      "studentName": "山田　太郎",
+      "studentNameKana": "ヤマダ　タロウ",
+      "guardianName": "山田　拓郎",
+      "guardianNameKana": "ヤマダ　タクロウ",
+      "embroideryName": "test",
+      "tel": "086-0000-0001",
+      "fax": "086-0000-0002",
+      "post": "7000001",
+      "address1": "岡山県",
+      "address2": "岡山市北区　宿",
+      "address3": "",
+      "delivery1Title": "届け先テスト住所1",
+      "delivery1Post": "700001",
+      "delivery1Address1": "岡山県",
+      "delivery1Address2": "岡山市北区 宿",
+      "delivery1Address3": "1",
+      "delivery1Tel": "086-0000-0001",
+      "delivery1Receiver": "山田　拓郎",
+      "delivery2Title": "届け先てすと住所2",
+      "delivery2Post": "7000001",
+      "delivery2Address1": "岡山県",
+      "delivery2Address2": "岡山市北区 宿",
+      "delivery2Address3": "2",
+      "delivery2Tel": "080-0000-0001",
+      "delivery2Receiver": "山田　拓郎",
+      "payKbn": "2",
+      "OrderDetailInfos": [
+        {
+          "orderDetailNo": 1,
+          "seasonKbn": "1",
+          "productCode": "14M276",
+          "colorCode": "88",
+          "sizeCode": "",
+          "orderNum": 1,
+          "retailPrice": 0,
+          "process1": 0,
+          "process2": 0,
+          "mainCompanyFlg": "1"
+        }
+      ]
+    }
+  ]
+},
+     {
+  "connectInquiryNo": "00002",
+  "orderNo": null,
+  "inquiryInfos": [
+    {
+      "officeCode": "1",
+      "inquiryNo": "00002",
+      "status": "0",
+      "inputType": "1",
+      "customerConditionKbn": "3",
+      "emergencyKbn": "2",
+      "inquiryKbn1": "",
+      "inquiryKbn2": "",
+      "inquiryInsertUserId": "001",
+      "inquiryInsertDatetime": "0:00",
+      "schoolCode": "00000001",
+      "schoolName": "岡山県立岡山東商業高等学校",
+      "schoolNameKana": "オカヤマケンリツオカヤマヒガシショウギョウコウトウガッコウ",
+      "prefecture": "岡山県",
+      "applicationKbn": "1",
+      "concurrentKbn": "1",
+      "closingDate": "2022/03/24",
+      "studentNameKana": "ヤマダ　タロウ",
+      "studentName": "山田　太郎",
+      "sexKbn": "1",
+      "currentStudentKbn": "1",
+      "belongingCode": "1A01",
+      "inTelRelationshipKbn": "2",
+      "inTelNameKana": "ヤマダ　タクロウ",
+      "inTelName": "山田　拓郎",
+      "contactTel": "080-0000-0001",
+      "contactDate": "2021/12/24",
+      "contactTime": "18:00",
+      "contactMailAddress": "test@gmail.jp",
+      "orderTel": "086-0000-0001",
+      "shippingPost": "7000001",
+      "shippingAddressKana": "ｵｶﾔﾏｹﾝ ｵｶﾔﾏｼｷﾀｸ ｼｭｸ",
+      "shippingAddress": "岡山県 岡山市北区 宿",
+      "inquiryContent": "問合せ内容テスト",
+      "supportContent": "対応内容テスト",
+      "escalationKbn": "1",
+      "callBackTelKbn": "1",
+      "orderJournalMainInfo": [
+        {
+          "studentName": "山田　太郎",
+          "studentNameKana": "ヤマダ　タロウ",
+          "guardianName": "山田　拓郎",
+          "guardianNameKana": "ヤマダ　タクロウ",
+          "tel": "080-0000-0001",
+          "fax": "080-0000-0101",
+          "post": "7000001",
+          "address1": "岡山県",
+          "address2": "岡山市北区 宿",
+          "address3": "1-1",
+          "embroideryName": "yamada",
+          "examinationNo": 123,
+          "delivery1Title": null,
+          "delivery1Tel": "080-0000-0002",
+          "delivery1Post": "7000001",
+          "delivery1Address1": "岡山県",
+          "delivery1Address2": "岡山市北区 宿",
+          "delivery1Address3": "1-1",
+          "delivery1Receiver": "山田　拓郎",
+          "delivery1TimeKbn": "13:00",
+          "delivery2Tel": "",
+          "delivery2Post": "",
+          "delivery2Address1": "",
+          "delivery2Address2": "",
+          "delivery2Address3": "",
+          "delivery2Receiver": "",
+          "delivery2TimeKbn": "",
+          "orderJournalDetailInfos": [
+            {
+              "orderDetailNo": 1,
+              "seasonKbn": "1",
+              "productCode": "14M276",
+              "colorCode": "88",
+              "sizeCode": "",
+              "orderNum": 1,
+              "retailPrice": 0,
+              "process1": 0,
+              "process2": 0,
+              "mainCompanyFlg": "1"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "MainInfo": [
+    {
+      "orderNo": "00002",
       "examinationNo": 123,
       "studentName": "山田　太郎",
       "studentNameKana": "ヤマダ　タロウ",
