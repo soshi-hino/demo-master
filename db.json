@@ -181,7 +181,7 @@
             ]
         }
     ],
-    OrderDetail[
+    "OrderDetail":[
     {
   "connectInquiryNo": "00000001",
   "orderNo": null,
